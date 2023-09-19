@@ -1,0 +1,8 @@
+﻿  master.cpp
+C:\Users\Strix\source\repos\7 semestr\MAandSCAT\onelabhub\2задание\master\master\master.cpp(86,36): warning C4244: аргумент: преобразование "unsigned __int64" в "int", возможна потеря данных
+C:\Users\Strix\source\repos\7 semestr\MAandSCAT\onelabhub\2задание\master\master\master.cpp(89,36): warning C4244: аргумент: преобразование "unsigned __int64" в "int", возможна потеря данных
+C:\Users\Strix\source\repos\7 semestr\MAandSCAT\onelabhub\2задание\master\master\master.cpp(92,35): warning C4244: аргумент: преобразование "unsigned __int64" в "int", возможна потеря данных
+C:\Users\Strix\source\repos\7 semestr\MAandSCAT\onelabhub\2задание\master\master\master.cpp(95,35): warning C4244: аргумент: преобразование "unsigned __int64" в "int", возможна потеря данных
+C:\Users\Strix\source\repos\7 semestr\MAandSCAT\onelabhub\2задание\master\master\master.cpp(98,35): warning C4244: аргумент: преобразование "unsigned __int64" в "int", возможна потеря данных
+C:\Users\Strix\source\repos\7 semestr\MAandSCAT\onelabhub\2задание\master\master\master.cpp(101,35): warning C4244: аргумент: преобразование "unsigned __int64" в "int", возможна потеря данных
+  master.vcxproj -> C:\Users\Strix\source\repos\7 semestr\MAandSCAT\onelabhub\2задание\master\x64\Debug\master.exe
