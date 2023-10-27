@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Strix/source/repos/7 semestr/onelabhub",
-      "program": "c:/Users/Strix/source/repos/7 semestr/onelabhub/build/Debug/outDebug",
+      "cwd": "c:/Users/Strix/source/repos/7 semestr/MAandSCAT/onelabhub/1задание",
+      "program": "c:/Users/Strix/source/repos/7 semestr/MAandSCAT/onelabhub/1задание/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
